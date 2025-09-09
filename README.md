@@ -17,4 +17,7 @@ Built while learning React and working with APIs.
 ## Screenshots
 ![Movieland Screenshot](Screenshot.png)
 
+[Check out the live project here](https://movie-land-gamma-five.vercel.app)
+
+
 
